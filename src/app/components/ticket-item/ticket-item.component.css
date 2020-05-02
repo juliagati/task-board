@@ -1,0 +1,13 @@
+.overflow {
+    white-space: wrap; 
+
+    width:100%; 
+    overflow: hidden;
+    text-overflow: ellipsis; 
+   
+}
+
+
+.breakWord{
+    word-break: break-all;
+}
